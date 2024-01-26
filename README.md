@@ -6,7 +6,7 @@ Command name - internsctl
 Command version - v0.1.0
 
 ## Script flow
-![flow](https://github.com/saindhyan/internsctl/assets/87525527/2f956d97-f5fd-4645-9b6d-3dcd52a428dd)
+![flow](https://github.com/saindhyan/xenonModule-3/assets/87525527/66ac0de3-44d0-4ab3-ac92-348b71406158)
 
 ## step 1 Place script file to /bin folder
 ```
